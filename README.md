@@ -16,6 +16,7 @@ python test_image.py --input input_image --output output_image
 python test_video.py --input video.mp4
 ```
 **Results**
+
 ![1_input](imgs/1_input.jpg?raw=true "1_input")
 
 ![1_output](imgs/1_output.jpg?raw=true "1_output") 
